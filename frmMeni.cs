@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TVP_Projekat
 {
-    public partial class Form1 : Form
+    public partial class frmMeni : Form
     {
-        public Form1()
+        public frmMeni()
         {
             InitializeComponent();
         }
